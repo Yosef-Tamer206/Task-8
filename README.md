@@ -4,8 +4,6 @@ A browser-based contact manager: add contacts with photos, mark favorites and em
 
 **Live demo:** https://yosef-tamer206.github.io/Task-8/
 
-![Task-8 screenshot](docs/screenshot.png)
-
 ## Features
 
 - Add, edit and delete contacts, with a delete-all option
